@@ -192,7 +192,7 @@
           CommandAction="~remoteAppUrl/Pages/Default.aspx?{StandardTokens}&amp;SPListItemId={SelectedItemId}&amp;SPListId={SelectedListId}"/>
         <CommandUIHandler
          Command="CustomRibbonTab.NewCustomCommand"
-         CommandAction="https://jciautotag.azurewebsites.net/autotag/pages/default.aspx/?HostUrl={HostUrl}&amp;Source={Source}&amp;ListURLDir={ListUrlDir}&amp;SelectedListID={SelectedListId}&amp;SelectedItemID={SelectedItemId}"/>
+         CommandAction="https://jciautotag.azurewebsites.net/autotag2/pages/default.aspx/?HostUrl={HostUrl}&amp;Source={Source}&amp;ListURLDir={ListUrlDir}&amp;SelectedListID={SelectedListId}&amp;SelectedItemID={SelectedItemId}"/>
 
 
         <!--<CommandUIHandler Command="Invoke_RibbonCustomAction1ButtonRequest"
