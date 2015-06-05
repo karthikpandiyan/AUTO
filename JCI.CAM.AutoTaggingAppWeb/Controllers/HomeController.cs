@@ -311,7 +311,7 @@ namespace JCI.CAM.AutoTaggingAppWeb.Controllers
             _rer.ReceiverClass = "ECM.AutoTaggingWeb.Services.AutoTaggingService";
             // _rer.ReceiverUrl = "https://amsecm.azurewebsites.net/Services/AutoTaggingService.svc";
             //_rer.ReceiverUrl = "https://jciautotag.azurewebsites.net/jciautotagging/services/autotaggingservice.svc";
-            _rer.ReceiverUrl = "https://jciautotag.azurewebsites.net/autotag2/services/autotaggingservice.svc";
+            _rer.ReceiverUrl = "https://http://tcsautotagging.azurewebsites.net/services/autotaggingservice.svc";
             _rer.Synchronization = EventReceiverSynchronization.Synchronous;
             return _rer;
         }
