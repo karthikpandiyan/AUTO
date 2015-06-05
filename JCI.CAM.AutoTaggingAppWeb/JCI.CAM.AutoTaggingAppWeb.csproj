@@ -239,6 +239,8 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Pages\Default.aspx" />
+    <Content Include="ReferencedAssemblies\Microsoft.IdentityModel.dll" />
+    <Content Include="ReferencedAssemblies\Microsoft.IdentityModel.Extensions.dll" />
     <Content Include="Resources\RibbonCommands.xml">
       <SubType>Designer</SubType>
     </Content>
